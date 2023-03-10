@@ -1,7 +1,7 @@
 const MySportsFeeds = require('mysportsfeeds-node');
 
 const msf = new MySportsFeeds('1.2', true);
-msf.authenticate('rgmantle', '22SjS;13');
+msf.authenticate('xxxxxxxx', 'xxxxxxxx');
 
 const today = new Date();
 
